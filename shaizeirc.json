@@ -1,0 +1,15 @@
+{
+  "typescript": false,
+  "showErrorOverly": true,
+  "emitLintingErrors": false,
+  "host": "localhost",
+  "defaultPort": 3000,
+  "https": false,
+  "addCSSSourceMaps": true,
+  "addJSSourceMaps": true,
+  "cssModules": false,
+  "emotion": false,
+  "webpackDevSourceMap": "cheap-module-source-map",
+  "webpackProdSourceMap": "source-map",
+  "title": "React App | Shaizei"
+}
